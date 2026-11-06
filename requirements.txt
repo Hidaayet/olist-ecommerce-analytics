@@ -1,0 +1,19 @@
+# Core data stack
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+# Database
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+# Visualisation and reporting
+matplotlib>=3.8
+seaborn>=0.13
+reportlab>=4.0
+pillow>=10.0
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.0
+nbconvert>=7.0
+# Tests
+pytest>=8.0
